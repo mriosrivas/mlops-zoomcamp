@@ -1,0 +1,1 @@
+python ../cohorts/2024/02-experiment-tracking/homework/preprocess_data.py --raw_data_path ./data --dest_path ./output

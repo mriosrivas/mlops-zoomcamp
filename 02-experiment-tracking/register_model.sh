@@ -1,0 +1,1 @@
+python ../cohorts/2024/02-experiment-tracking/homework/register_model.py --data_path ./output --top_n 5
